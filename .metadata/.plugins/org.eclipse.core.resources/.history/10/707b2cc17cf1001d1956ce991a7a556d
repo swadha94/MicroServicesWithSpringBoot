@@ -1,0 +1,5 @@
+package com.swadha.rest.webservices.restfulwebservices.user;
+
+public class UserDaoService {
+
+}

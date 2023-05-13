@@ -1,0 +1,14 @@
+package com.swadha.rest.webservices.restfulwebservices.user;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class UserDaoService {
+	// JPA / Hibernate  > Database
+	//UserDaoService > Static List
+	
+	private static List<User>users = new ArrayList<User>();
+}
